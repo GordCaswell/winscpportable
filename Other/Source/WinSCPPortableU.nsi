@@ -23,7 +23,7 @@
 !define APPNAME "WinSCP"
 !define NAME "WinSCPPortable"
 !define VER "1.6.7.0"
-!define WEBSITE "PortableApps.com/WinSCPPortable"
+!define WEBSITE "http://portableapps.com/apps/internet/winscp_portable"
 !define DEFAULTEXE "WinSCP.exe"
 !define DEFAULTAPPDIR "WinSCP"
 !define LAUNCHERLANGUAGE "English"
